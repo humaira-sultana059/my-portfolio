@@ -1,0 +1,10 @@
+# Robots.txt for Humaira Sultana's Portfolio
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# Sitemap
+Sitemap: https://humaira-portfolio.vercel.app/sitemap.xml
+
+# Crawl delay
+Crawl-delay: 1
