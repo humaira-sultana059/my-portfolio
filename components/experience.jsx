@@ -58,7 +58,7 @@ export default function Experience() {
     {
       degree: "Bachelor of Science",
       field: "Psychology",
-      institution: "University of Dhaka",
+      institution: "Eden Mohila College",
       period: "May 2019 - Jan 2024",
       details: "Relevant coursework in Structural Design and Project Management",
     },
