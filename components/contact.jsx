@@ -109,12 +109,12 @@ export default function Contact() {
     {
       icon: Github,
       label: "GitHub",
-      link: "https://github.com/Sultanamim",
+      link: "https://github.com/humaira-sultana059",
     },
     {
       icon: Linkedin,
       label: "LinkedIn",
-      link: "https://www.linkedin.com/in/humaira-sultana-b8a8b5250/",
+      link: "https://www.linkedin.com/in/humaira-sultana-866672282/",
     },
   ]
 
